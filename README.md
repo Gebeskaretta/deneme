@@ -1,2 +1,3 @@
-# deneme
-APK Builder by Code2APK AI
+# JavaSayac
+
+Bu Android Java projesi **Code2APK AI** tarafından derlenmeye hazır hale getirildi.

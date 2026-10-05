@@ -1,3 +1,4 @@
-# JavaSayac
+# KivySayac
 
-Bu Android Java projesi **Code2APK AI** tarafından derlenmeye hazır hale getirildi.
+Bu Android APK projesi **Code2APK AI** ve Grok tarafından otomatik oluşturuldu.
+GitHub Actions sekmesinde APK derlenir.
